@@ -1,2 +1,49 @@
 body {
+    max-width: 2000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cookies-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #194277;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.cookies-block_text {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-right: 50px;
+}
+
+.cookies-block_btn {
+    width: 112px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+    color: #194277;
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16.36px;
+    letter-spacing: 0.55px;
+}
+
+.nav-menu {
+    width: 25px;
+    height: 19px;
+}
+.nav-menu_item {
+    content: '';
+    width: 25px;
+    height: 19px;
+    background-color: red;
 }
