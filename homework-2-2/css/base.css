@@ -1,0 +1,48 @@
+body {
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: Lato, sans-serif;
+}
+
+button,
+input,
+textarea {
+    outline: 0;
+}
+
+label {
+    padding: 10px;  
+}
+
+section {
+    position: relative;
+}
+
+
+.h2__title {
+    margin-top: 80px;
+    color: #2d3950;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.h3__title {
+    color: #2d3950;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0.55px;
+    margin-top: 32px;
+    margin-bottom: 7px;
+}
+
+.p__description {
+    color: #909090;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.38px;
+    text-align: center;
+}
